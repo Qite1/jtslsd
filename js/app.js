@@ -200,7 +200,7 @@
       <div class="card" style="margin-bottom:22px">
         <h3><span class="icon">🏢</span> 公司简介</h3>
         <div class="company-intro">
-          <p><strong>湖北建投水利水电工程有限公司</strong>（简称"湖北建投水利"）<strong>成立于2023年4月</strong>，注册资本<strong>10亿元</strong>，为<strong>湖北路桥集团全资子公司</strong>，具有<strong>水利水电工程施工总承包一级资质</strong>。</p>
+          <p><strong>湖北建投水利水电工程有限公司</strong>（简称"湖北建投水利"）<strong>成立于2023年4月</strong>，注册资本<strong>10亿元</strong>，为<strong>湖北路桥集团全资子公司</strong>，具有<strong>水利水电工程施工总承包一级</strong>、建筑工程施工总承包二级、市政公用工程施工总承包二级、机电工程施工总承包二级等多项施工总承包资质。</p>
           <p>公司立足湖北路桥深厚的工程建设底蕴（母公司具有公路工程施工总承包特级资质、工程设计公路行业甲级等配套资质，成立70余年来承建70多项国家、省重点工程，累计修建公路7000余公里、大型桥梁580余座），聚焦<strong>水利水电工程、水环境、水生态、全域国土整治、风光水储新能源、抽水蓄能、市政、建筑</strong>等领域的投资、技术咨询、施工、运营服务，致力于成为湖北水利建设领域的新锐力量，助力"<strong>荆楚安澜</strong>"现代水网建设。</p>
           <p>公司承载着湖北路桥集团"<strong>水利新赛道</strong>"的战略使命，着力打造"<strong>一流水利铁军</strong>"，坚持"立足湖北、走向全国、进军海外"的市场布局，探索推广<strong>智慧水利、数字孪生、生态护岸</strong>等技术应用，提升项目附加值，充分发挥湖北路桥集团"投建营一体化"产业链延伸模式的优势。</p>
           <p>公司严格落实水利工程安全质量技术规范，将<strong>安全生产与工程质量合规</strong>作为生命线，依托本系统智能影像识别与信息化台账闭环管理，推动隐患排查治理精准化、智能化。未来，公司将立足湖北路桥"工程建设全领域总承包商"发展定位，加快形成水利基础设施领域全生命周期、全产业链总集成能力，全力打造水利基础设施领域国内一流工程建设企业。</p>
@@ -217,13 +217,17 @@
 
       <div class="card" style="margin-bottom:22px">
         <h3><span class="icon">🏗️</span> 在建项目简介</h3>
-        <p class="muted">公司先后参建武穴北灌区改扩建、宜昌玛瑙河流域国土综合整治、孝感老观湖泵站新建等省市重点项目如下：</p>
+        <p class="muted">公司先后参建湖北汉江生态经济带引隆补水、鄂北地区水资源配置、武穴北灌区、辽宁建昌水毁修复及宜昌玛瑙河流域国土整治等省市重点工程，代表性项目如下：</p>
         <div class="grid cols-3" style="margin-top:14px">
-          <div class="reg-card"><strong style="color:var(--ink)">🏞️ 武穴北灌区改扩建工程</strong><div class="muted" style="margin-top:6px">设计施工采购总承包（EPC）项目</div></div>
+          <div class="reg-card"><strong style="color:var(--ink)">💧 汉江生态经济带引隆补水工程</strong><div class="muted" style="margin-top:6px">设计采购施工总承包（EPC），总投资22.37亿元</div></div>
+          <div class="reg-card"><strong style="color:var(--ink)">🛡️ 鄂北地区水资源配置二期工程熊河干线</strong><div class="muted" style="margin-top:6px">设计采购施工总承包（EPC），总投资14.92亿元</div></div>
+          <div class="reg-card"><strong style="color:var(--ink)">🏞️ 武穴北灌区新建扩建工程</strong><div class="muted" style="margin-top:6px">设计采购施工总承包（EPC），总投资20.2亿元</div></div>
+          <div class="reg-card"><strong style="color:var(--ink)">🛠️ 辽宁建昌县云山洞河等水毁修复工程</strong><div class="muted" style="margin-top:6px">浆砌石挡墙护坡与固滨笼护岸修复</div></div>
           <div class="reg-card"><strong style="color:var(--ink)">🌾 宜昌市玛瑙河流域全域国土综合整治工程</strong><div class="muted" style="margin-top:6px">国土综合整治、水系治理与生态修复</div></div>
           <div class="reg-card"><strong style="color:var(--ink)">⚙️ 孝感市老观湖泵站新建工程</strong><div class="muted" style="margin-top:6px">泵站新建、机电安装与配套渠系</div></div>
           <div class="reg-card"><strong style="color:var(--ink)">💧 华容区杨巷中型灌区续建配套与节水改造工程</strong><div class="muted" style="margin-top:6px">设计施工采购总承包（EPC）项目</div></div>
           <div class="reg-card"><strong style="color:var(--ink)">🔄 汉川市龚家湾泵站更新改造工程</strong><div class="muted" style="margin-top:6px">泵站更新改造、设备更换与调试</div></div>
+          <div class="reg-card"><strong style="color:var(--ink)">💧 房县城区水环境综合治理（二期）PPP项目</strong><div class="muted" style="margin-top:6px">管网改造、污水处理厂与智慧水务，总投资13.96亿元</div></div>
           <div class="reg-card"><strong style="color:var(--ink)">🌾 监利市高标准农田建设项目</strong><div class="muted" style="margin-top:6px">高标准农田建设、灌排体系配套</div></div>
         </div>
       </div>
